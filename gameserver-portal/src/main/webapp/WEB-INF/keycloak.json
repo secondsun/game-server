@@ -1,0 +1,11 @@
+{
+  "realm": "game-server",
+  "realm-public-key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA19F56i35K2y7DALS78z1uXKhUq6wdYqrxulrcHcjMjniNaYzVIttGpVfMl7EfujYEQEHM/A3VnKcaDD/WrmVyJEdfa8O1I7vAwzR0g21LBIywL/PUEGbf1hjLiy648hxZ/IAkmB9dQXIUJUPnW4AreQ1W96bE2bPQYYKl8+La7zeB4+/Wcj5zAb2EHY1nDGI6NnXDiIuCyKEc+Uj7n+zMHmX9RCS5BlKcqL/QjXCR0qO6PoMcExXfa2VZeuHiM1I35HoWfPJ7vJJVlWAi2OiJXGCkOrxbc/z0yc5tfdfizv8M6xq4v9wrS4Q8HCY5CTWNLd+KX7xlRt86HWtVSINrwIDAQAB",
+  "auth-server-url": "https://auth-coffeeregister.rhcloud.com/auth",
+  "ssl-not-required": true,
+  "resource": "game-server",
+  "credentials": {
+    "secret": "e199f971-a7e3-4180-94c2-1b9ba313080c"
+  },
+  "use-resource-role-mappings": false
+}

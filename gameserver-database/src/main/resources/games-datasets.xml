@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<dataset>
+    <MATCHES ID="1" 
+                NAME="Match 1"
+                IS_OPEN="true"
+                MAX_PLAYERS="2"
+               IS_STARTED="false"/> 
+    <MATCHES ID="2"
+           NAME="Match 2"
+           IS_OPEN="false"
+           MAX_PLAYERS="2"
+           IS_STARTED="true"/> 
+    <PLAYERS 
+            ID="1"
+            NAME="Summers"/>
+    <PLAYERS
+            ID="2"
+            NAME="Passos"/>
+    <MATCH_PLAYERS 
+            MATCH_ID="2"
+            PLAYER_ID="1"/>
+    <MATCH_PLAYERS 
+            MATCH_ID="2"
+            PLAYER_ID="2"/>
+</dataset>

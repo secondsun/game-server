@@ -1,0 +1,29 @@
+########## Intellij #########
+
+*.iml
+.idea/
+out/
+gen-external-apklibs/
+
+########## Eclipse ##########
+
+.classpath
+.settings/
+.project
+classes/
+libs/
+bin/
+project.properties
+
+########### NetBeans ###########
+
+nb-configuration.xml
+
+########### Maven ###########
+
+target/
+tmp/
+
+
+######### Testing ########
+derby.log
